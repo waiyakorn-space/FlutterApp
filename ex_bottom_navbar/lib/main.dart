@@ -34,19 +34,19 @@ class _MyStateFulWidget extends State<MyStateFulWidget> {
 
   static const List<Widget> _widgetOption = <Widget>[
     Text(
-      'Index 0: Home',
+      'Page 0: Home',
       style: optionStyle,
     ),
     Text(
-      'Index 1: List',
+      'Page 1: List',
       style: optionStyle,
     ),
     Text(
-      'Index 2: Purchase',
+      'Page 2: Purchase',
       style: optionStyle,
     ),
     Text(
-      'Index 3: Account',
+      'Page 3: Account',
       style: optionStyle,
     ),
   ];
